@@ -1,5 +1,26 @@
 # 💫 About Me:
-I'm currently working on<br><br>AI/ML research projects, Explainable AI (XAI), ensemble learning, and real-world classification problems using structured datasets.<br><br>I'm looking to collaborate on<br><br>AI/ML, Deep Learning, Explainable AI, Computer Vision, Data Science, and research projects that can lead to impactful publications.<br><br>I'm looking for help with<br><br>Research methodology, model optimization, XAI techniques, academic paper writing, and building production-ready AI solutions.<br><br>I'm currently learning<br><br>Advanced Machine Learning, Deep Learning, Explainable AI, Computer Vision, Data Science, Selenium automation, and software development.<br><br>Ask me about<br><br>Python, Machine Learning, Deep Learning, XAI, ensemble models, research projects, AIUB CSE, and my journey toward becoming an Engineer & also a Professor.<br><br>+ Fun fact<br><br>I'm a CSE student who loves turning real-world problems into AI research projects—and I somehow ended up enjoying research more than coding. 😄
+
+🎓 CSE student at **AIUB** passionate about Artificial Intelligence, Machine Learning, and research.
+
+🔭 **I'm currently working on**  
+AI/ML/DL research projects, Explainable AI (XAI), ensemble learning, and real-world classification problems using structured data.
+
+🤝 **I'm looking to collaborate on**  
+AI/ML, Deep Learning, Explainable AI, Computer Vision, Data Science, and research projects with real-world impact.
+
+🧠 **I'm looking for help with**  
+Research methodology, model optimization, XAI techniques, academic paper writing, and building practical AI solutions.
+
+🌱 **I'm currently learning**  
+Advanced Machine Learning, Deep Learning, AI Engineering, Explainable AI, Computer Vision, Data Science, Selenium automation, and software development.
+
+💬 **Ask me about**  
+Python, Machine Learning, Deep Learning, XAI, ensemble learning and research
+⚡ **Fun fact**  
+I love turning real-world problems into AI research projects—and somehow, I ended up enjoying **research more than coding**. 😄
+
+🎯 **Current Goal:**  
+**Learn → Build → Research → Publish → Become an AI Engineer & Professor 🚀**
 
 
 ## 🌐 Socials:
